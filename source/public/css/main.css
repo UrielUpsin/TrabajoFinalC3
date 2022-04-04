@@ -1,0 +1,110 @@
+html{
+    font-family: 'Kanit', sans-serif;
+}
+
+#seccion{
+width: 1200px;
+height: 1000px;
+background-color: antiquewhite;
+max-width: 0 auto;
+margin: auto;
+}
+
+img{
+display: block;
+border: 1px solid #ddd; 
+margin-left: auto;
+margin-right: 4px;
+border-radius: 4px;
+padding: 5px;
+width: 150px; 
+margin:left;
+}
+
+
+h3{
+    color:black;
+    text-align: center;
+}
+
+#tbl{
+    background-color: white;
+    border-radius: 10px;
+}
+
+#ing{
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    width: 70%;
+    margin-left: 15%;
+}
+
+#edit{
+    text-align: center;
+    background-color: #ddd;
+    margin-left: 70%;
+    margin-top: 5%; 
+    border-radius: 10px;
+}
+
+#agg{
+    background-color: blue;
+}
+
+#agg:hover{
+    background-color: darkblue;
+}
+
+#mos{
+    background-color: blue;
+}
+
+#mos:hover{
+    background-color: darkblue;
+}
+
+#lim{
+    background-color: red;
+    margin-top: -10px;
+    
+}
+
+#lim:hover{
+    background-color: darkred;
+}
+
+
+#edi{
+    background-color: blue;
+    color: white;
+    margin-top: -0.5;
+
+}
+
+#edi:hover{
+    background-color: darkblue;
+    color: white;
+
+}
+
+#elim{
+    background-color: red;
+    margin-left: 60%;
+    margin-top: -4.5%;
+
+}
+
+#elim:hover{
+    background-color: darkred;
+}
+
+#bus{
+    background-color: blue;
+    margin-top: 10%;
+}
+
+#bus:hover{
+    background-color: darkblue;
+}
+
